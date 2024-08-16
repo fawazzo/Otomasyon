@@ -1,0 +1,49 @@
+﻿@model Otomasyon.Core.Entities.Kisiler
+
+@{
+    ViewData["Title"] = "Kişi Detay";
+}
+
+<div class="container mt-4">
+    <div class="row">
+        <div class="col-md-12">
+            <div class="card">
+                <div class="card-header">
+                    <h3 class="card-title">Kişi Detay</h3>
+                </div>
+                <div class="card-body">
+                    <dl class="row">
+                        <dt class="col-sm-3">
+                            Adı
+                        </dt>
+                        <dd class="col-sm-9">
+                            @Model.Adi
+                        </dd>
+                        <dt class="col-sm-3">
+                            Soyadı
+                        </dt>
+                        <dd class="col-sm-9">
+                            @Model.Soyadi
+                        </dd>
+                        <dt class="col-sm-3">
+                            TC Kimlik Numarası
+                        </dt>
+                        <dd class="col-sm-9">
+                            @Model.TcKimlikNumarasi
+                        </dd>
+                        <dt class="col-sm-3">
+                            Unvan
+                        </dt>
+                        <dd class="col-sm-9">
+                            @Model.Unvan
+                        </dd>
+                    </dl>
+                </div>
+                <div class="card-footer">
+                    <a asp-action="Edit" asp-route-id="@Model.Id" class="btn btn-warning">Düzenle</a>
+                    <a asp-action="Index" class="btn btn-secondary">Geri</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

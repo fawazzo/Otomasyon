@@ -1,0 +1,9 @@
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\obj\Debug\net8.0\Otomasyon.csproj.AssemblyReference.cache
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\obj\Debug\net8.0\Otomasyon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\obj\Debug\net8.0\Otomasyon.AssemblyInfoInputs.cache
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\obj\Debug\net8.0\Otomasyon.AssemblyInfo.cs
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\obj\Debug\net8.0\Otomasyon.csproj.CoreCompileInputs.cache
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\obj\Debug\net8.0\Otomasyon.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\obj\Debug\net8.0\Otomasyon.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\obj\Debug\net8.0\Otomasyon.RazorAssemblyInfo.cache
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\obj\Debug\net8.0\Otomasyon.RazorAssemblyInfo.cs

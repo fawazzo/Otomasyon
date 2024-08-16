@@ -1,0 +1,100 @@
+﻿@model Otomasyon.Core.Entities.Kisiler
+
+@{
+    ViewData["Title"] = "Yeni Kişi Ekle";
+    var unvanList = new List<string> { "Prof", "Doç", "Dr", "Araş", "Admin", "User" }; // Replace with your actual titles
+}
+
+<!-- Content Header (Page header) -->
+<section class="content-header">
+    <div class="container-fluid">
+        <div class="row mb-2">
+            <div class="col-sm-6">
+                <h1>@ViewData["Title"]</h1>
+            </div>
+            <div class="col-sm-6">
+                <!-- Logout Button in the header -->
+                <button type="button" class="btn btn-danger btn-sm float-right" id="headerLogoutButton">Logout</button>
+            </div>
+        </div>
+    </div><!-- /.container-fluid -->
+</section>
+
+<!-- Main content -->
+<section class="content">
+    <div class="container-fluid">
+        <div class="row justify-content-center">
+            <div class="col-md-6">
+                <div class="card card-primary">
+                    <div class="card-header">
+                        <h3 class="card-title">Yeni Kişi Ekle</h3>
+                    </div>
+                    <!-- /.card-header -->
+                    <!-- form start -->
+                    <form asp-action="Create">
+                        <div class="card-body">
+                            <div class="form-group">
+                                <label asp-for="Adi" class="control-label"></label>
+                                <input asp-for="Adi" class="form-control" />
+                                <span asp-validation-for="Adi" class="text-danger"></span>
+                            </div>
+                            <div class="form-group">
+                                <label asp-for="Soyadi" class="control-label"></label>
+                                <input asp-for="Soyadi" class="form-control" />
+                                <span asp-validation-for="Soyadi" class="text-danger"></span>
+                            </div>
+                            <div class="form-group">
+                                <label asp-for="TcKimlikNumarasi" class="control-label"></label>
+                                <input asp-for="TcKimlikNumarasi" class="form-control" maxlength="11" pattern="\d{11}" title="Tc Kimlik Numaranızı yanlış girmişsiniz" />
+                                <span asp-validation-for="TcKimlikNumarasi" class="text-danger"></span>
+                            </div>
+
+                            <div class="form-group">
+                                <label asp-for="Unvan" class="control-label"></label>
+                                <select asp-for="Unvan" class="form-control" asp-items="@(new SelectList(unvanList))"></select>
+                                <span asp-validation-for="Unvan" class="text-danger"></span>
+                            </div>
+                            <div class="form-group">
+                                <label asp-for="Password" class="control-label"></label>
+                                <input asp-for="Password" type="password" class="form-control" />
+                                <span asp-validation-for="Password" class="text-danger"></span>
+                            </div>
+                        </div>
+                        <!-- /.card-body -->
+                        <div class="card-footer">
+                            <div class="button-group">
+                                <input type="submit" value="Kaydet" class="btn btn-primary" />
+                                <a asp-action="Index" class="btn btn-secondary">Geri</a>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+                <!-- /.card -->
+            </div>
+            <!-- /.col -->
+        </div>
+        <!-- /.row -->
+    </div><!-- /.container-fluid -->
+</section>
+<!-- /.content -->
+
+<style>
+    .card-footer {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    .button-group {
+        display: flex;
+        gap: 10px; /* Space between buttons */
+    }
+
+    .btn-sm {
+        font-size: 0.875rem; /* Smaller font size for buttons */
+    }
+
+    #headerLogoutButton {
+        margin-left: 10px; /* Space between logout and title */
+    }
+</style>

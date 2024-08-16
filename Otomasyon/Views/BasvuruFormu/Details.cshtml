@@ -1,0 +1,61 @@
+﻿@model Otomasyon.Core.Entities.BasvuruFormu
+
+@{
+    ViewData["Title"] = "Başvuru Formu Detay";
+}
+
+<div class="container mt-4">
+    <div class="row">
+        <div class="col-md-12">
+            <div class="card">
+                <div class="card-header">
+                    <h3 class="card-title">Başvuru Formu Detayları</h3>
+                </div>
+                <div class="card-body">
+                    <dl class="row">
+                        <dt class="col-sm-3">
+                            İsim
+                        </dt>
+                        <dd class="col-sm-9">
+                            @Model.Adi
+                        </dd>
+                        <dt class="col-sm-3">
+                            Soyad
+                        </dt>
+                        <dd class="col-sm-9">
+                            @Model.Soyadi
+                        </dd>
+                        <dt class="col-sm-3">
+                            Tc Kimlik
+                        </dt>
+                        <dd class="col-sm-9">
+                            @Model.TcKimlikNumarasi
+                        </dd>
+                        <dt class="col-sm-3">
+                            Unavn
+                        </dt>
+                        <dd class="col-sm-9">
+                            @Model.Unvan
+                        </dd>
+                        <dt class="col-sm-3">
+                            Değerlendirme 
+                        </dt>
+                        <dd class="col-sm-9">
+                            @Model.Degerlendirme
+                        </dd>
+                        <dt class="col-sm-3">
+                            Görev
+                        </dt>
+                        <dd class="col-sm-9">
+                            @Model.Gorev
+                        </dd>
+                    </dl>
+                </div>
+                <div class="card-footer">
+                    <a asp-action="Edit" asp-route-id="@Model.Id" class="btn btn-warning">Düzenle</a>
+                    <a asp-action="Create" asp-route-id="@Model.Id" class="btn btn-secondary">Geri</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

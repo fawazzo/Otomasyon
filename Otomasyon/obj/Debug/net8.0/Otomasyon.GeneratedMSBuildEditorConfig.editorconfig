@@ -1,0 +1,251 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Otomasyon
+build_property.RootNamespace = Otomasyon
+build_property.ProjectDir = C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/fawaz/Desktop/StajOto/Last/Otomasyon/Otomasyon/LastVersion/Otomasyon/Views/Account/AccessDenied.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TGFzdFZlcnNpb25cT3RvbWFzeW9uXFZpZXdzXEFjY291bnRcQWNjZXNzRGVuaWVkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/fawaz/Desktop/StajOto/Last/Otomasyon/Otomasyon/LastVersion/Otomasyon/Views/Account/ChangePassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TGFzdFZlcnNpb25cT3RvbWFzeW9uXFZpZXdzXEFjY291bnRcQ2hhbmdlUGFzc3dvcmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/fawaz/Desktop/StajOto/Last/Otomasyon/Otomasyon/LastVersion/Otomasyon/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TGFzdFZlcnNpb25cT3RvbWFzeW9uXFZpZXdzXEFjY291bnRcTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/fawaz/Desktop/StajOto/Last/Otomasyon/Otomasyon/LastVersion/Otomasyon/Views/Account/Login2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TGFzdFZlcnNpb25cT3RvbWFzeW9uXFZpZXdzXEFjY291bnRcTG9naW4yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/fawaz/Desktop/StajOto/Last/Otomasyon/Otomasyon/LastVersion/Otomasyon/Views/Account/Logout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TGFzdFZlcnNpb25cT3RvbWFzeW9uXFZpZXdzXEFjY291bnRcTG9nb3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/fawaz/Desktop/StajOto/Last/Otomasyon/Otomasyon/LastVersion/Otomasyon/Views/BasvuruFormu/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TGFzdFZlcnNpb25cT3RvbWFzeW9uXFZpZXdzXEJhc3Z1cnVGb3JtdVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/fawaz/Desktop/StajOto/Last/Otomasyon/Otomasyon/LastVersion/Otomasyon/Views/BasvuruFormu/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TGFzdFZlcnNpb25cT3RvbWFzeW9uXFZpZXdzXEJhc3Z1cnVGb3JtdVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/fawaz/Desktop/StajOto/Last/Otomasyon/Otomasyon/LastVersion/Otomasyon/Views/BasvuruFormu/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TGFzdFZlcnNpb25cT3RvbWFzeW9uXFZpZXdzXEJhc3Z1cnVGb3JtdVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/fawaz/Desktop/StajOto/Last/Otomasyon/Otomasyon/LastVersion/Otomasyon/Views/BasvuruFormu/Durum.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TGFzdFZlcnNpb25cT3RvbWFzeW9uXFZpZXdzXEJhc3Z1cnVGb3JtdVxEdXJ1bS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/fawaz/Desktop/StajOto/Last/Otomasyon/Otomasyon/LastVersion/Otomasyon/Views/BasvuruFormu/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TGFzdFZlcnNpb25cT3RvbWFzeW9uXFZpZXdzXEJhc3Z1cnVGb3JtdVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/fawaz/Desktop/StajOto/Last/Otomasyon/Otomasyon/LastVersion/Otomasyon/Views/BasvuruFormu/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TGFzdFZlcnNpb25cT3RvbWFzeW9uXFZpZXdzXEJhc3Z1cnVGb3JtdVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/fawaz/Desktop/StajOto/Last/Otomasyon/Otomasyon/LastVersion/Otomasyon/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TGFzdFZlcnNpb25cT3RvbWFzeW9uXFZpZXdzXEhvbWVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/fawaz/Desktop/StajOto/Last/Otomasyon/Otomasyon/LastVersion/Otomasyon/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TGFzdFZlcnNpb25cT3RvbWFzeW9uXFZpZXdzXEhvbWVcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/fawaz/Desktop/StajOto/Last/Otomasyon/Otomasyon/LastVersion/Otomasyon/Views/Kisiler/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TGFzdFZlcnNpb25cT3RvbWFzeW9uXFZpZXdzXEtpc2lsZXJcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/fawaz/Desktop/StajOto/Last/Otomasyon/Otomasyon/LastVersion/Otomasyon/Views/Kisiler/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TGFzdFZlcnNpb25cT3RvbWFzeW9uXFZpZXdzXEtpc2lsZXJcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/fawaz/Desktop/StajOto/Last/Otomasyon/Otomasyon/LastVersion/Otomasyon/Views/Kisiler/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TGFzdFZlcnNpb25cT3RvbWFzeW9uXFZpZXdzXEtpc2lsZXJcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/fawaz/Desktop/StajOto/Last/Otomasyon/Otomasyon/LastVersion/Otomasyon/Views/Kisiler/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TGFzdFZlcnNpb25cT3RvbWFzeW9uXFZpZXdzXEtpc2lsZXJcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/fawaz/Desktop/StajOto/Last/Otomasyon/Otomasyon/LastVersion/Otomasyon/Views/Kisiler/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TGFzdFZlcnNpb25cT3RvbWFzeW9uXFZpZXdzXEtpc2lsZXJcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/fawaz/Desktop/StajOto/Last/Otomasyon/Otomasyon/LastVersion/Otomasyon/Views/MevcutSinavlar/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TGFzdFZlcnNpb25cT3RvbWFzeW9uXFZpZXdzXE1ldmN1dFNpbmF2bGFyXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/fawaz/Desktop/StajOto/Last/Otomasyon/Otomasyon/LastVersion/Otomasyon/Views/MevcutSinavlar/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TGFzdFZlcnNpb25cT3RvbWFzeW9uXFZpZXdzXE1ldmN1dFNpbmF2bGFyXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/fawaz/Desktop/StajOto/Last/Otomasyon/Otomasyon/LastVersion/Otomasyon/Views/MevcutSinavlar/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TGFzdFZlcnNpb25cT3RvbWFzeW9uXFZpZXdzXE1ldmN1dFNpbmF2bGFyXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/fawaz/Desktop/StajOto/Last/Otomasyon/Otomasyon/LastVersion/Otomasyon/Views/MevcutSinavlar/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TGFzdFZlcnNpb25cT3RvbWFzeW9uXFZpZXdzXE1ldmN1dFNpbmF2bGFyXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/fawaz/Desktop/StajOto/Last/Otomasyon/Otomasyon/LastVersion/Otomasyon/Views/Role/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TGFzdFZlcnNpb25cT3RvbWFzeW9uXFZpZXdzXFJvbGVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/fawaz/Desktop/StajOto/Last/Otomasyon/Otomasyon/LastVersion/Otomasyon/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TGFzdFZlcnNpb25cT3RvbWFzeW9uXFZpZXdzXFNoYXJlZFxFcnJvci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/fawaz/Desktop/StajOto/Last/Otomasyon/Otomasyon/LastVersion/Otomasyon/Views/Shared/_Navigation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TGFzdFZlcnNpb25cT3RvbWFzeW9uXFZpZXdzXFNoYXJlZFxfTmF2aWdhdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/fawaz/Desktop/StajOto/Last/Otomasyon/Otomasyon/LastVersion/Otomasyon/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TGFzdFZlcnNpb25cT3RvbWFzeW9uXFZpZXdzXFNoYXJlZFxfVmFsaWRhdGlvblNjcmlwdHNQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/fawaz/Desktop/StajOto/Last/Otomasyon/Otomasyon/LastVersion/Otomasyon/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TGFzdFZlcnNpb25cT3RvbWFzeW9uXFZpZXdzXF9WaWV3SW1wb3J0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/fawaz/Desktop/StajOto/Last/Otomasyon/Otomasyon/LastVersion/Otomasyon/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TGFzdFZlcnNpb25cT3RvbWFzeW9uXFZpZXdzXF9WaWV3U3RhcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/fawaz/Desktop/StajOto/Last/Otomasyon/Otomasyon/Views/Account/AccessDenied.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxBY2Nlc3NEZW5pZWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/fawaz/Desktop/StajOto/Last/Otomasyon/Otomasyon/Views/Account/ChangePassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxDaGFuZ2VQYXNzd29yZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/fawaz/Desktop/StajOto/Last/Otomasyon/Otomasyon/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/fawaz/Desktop/StajOto/Last/Otomasyon/Otomasyon/Views/Account/Login2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbjIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/fawaz/Desktop/StajOto/Last/Otomasyon/Otomasyon/Views/Account/Logout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/fawaz/Desktop/StajOto/Last/Otomasyon/Otomasyon/Views/BasvuruFormu/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFzdnVydUZvcm11XENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/fawaz/Desktop/StajOto/Last/Otomasyon/Otomasyon/Views/BasvuruFormu/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFzdnVydUZvcm11XERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/fawaz/Desktop/StajOto/Last/Otomasyon/Otomasyon/Views/BasvuruFormu/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFzdnVydUZvcm11XERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/fawaz/Desktop/StajOto/Last/Otomasyon/Otomasyon/Views/BasvuruFormu/Durum.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFzdnVydUZvcm11XER1cnVtLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/fawaz/Desktop/StajOto/Last/Otomasyon/Otomasyon/Views/BasvuruFormu/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFzdnVydUZvcm11XEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/fawaz/Desktop/StajOto/Last/Otomasyon/Otomasyon/Views/BasvuruFormu/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFzdnVydUZvcm11XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/fawaz/Desktop/StajOto/Last/Otomasyon/Otomasyon/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/fawaz/Desktop/StajOto/Last/Otomasyon/Otomasyon/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/fawaz/Desktop/StajOto/Last/Otomasyon/Otomasyon/Views/Kisiler/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2lzaWxlclxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/fawaz/Desktop/StajOto/Last/Otomasyon/Otomasyon/Views/Kisiler/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2lzaWxlclxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/fawaz/Desktop/StajOto/Last/Otomasyon/Otomasyon/Views/Kisiler/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2lzaWxlclxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/fawaz/Desktop/StajOto/Last/Otomasyon/Otomasyon/Views/Kisiler/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2lzaWxlclxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/fawaz/Desktop/StajOto/Last/Otomasyon/Otomasyon/Views/Kisiler/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2lzaWxlclxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/fawaz/Desktop/StajOto/Last/Otomasyon/Otomasyon/Views/MevcutSinavlar/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWV2Y3V0U2luYXZsYXJcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/fawaz/Desktop/StajOto/Last/Otomasyon/Otomasyon/Views/MevcutSinavlar/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWV2Y3V0U2luYXZsYXJcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/fawaz/Desktop/StajOto/Last/Otomasyon/Otomasyon/Views/MevcutSinavlar/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWV2Y3V0U2luYXZsYXJcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/fawaz/Desktop/StajOto/Last/Otomasyon/Otomasyon/Views/MevcutSinavlar/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWV2Y3V0U2luYXZsYXJcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/fawaz/Desktop/StajOto/Last/Otomasyon/Otomasyon/Views/Role/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/fawaz/Desktop/StajOto/Last/Otomasyon/Otomasyon/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/fawaz/Desktop/StajOto/Last/Otomasyon/Otomasyon/Views/Shared/_Navigation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9OYXZpZ2F0aW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/fawaz/Desktop/StajOto/Last/Otomasyon/Otomasyon/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/fawaz/Desktop/StajOto/Last/Otomasyon/Otomasyon/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/fawaz/Desktop/StajOto/Last/Otomasyon/Otomasyon/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/fawaz/Desktop/StajOto/Last/Otomasyon/Otomasyon/LastVersion/Otomasyon/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TGFzdFZlcnNpb25cT3RvbWFzeW9uXFZpZXdzXFNoYXJlZFxfTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = b-0dbec77p5m
+
+[C:/Users/fawaz/Desktop/StajOto/Last/Otomasyon/Otomasyon/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-ldqqno9z3d

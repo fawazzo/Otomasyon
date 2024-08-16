@@ -1,0 +1,33 @@
+﻿@{
+    ViewData["Title"] = "Role Management";
+    var availableRolesWithCapacity = ViewBag.AvailableRolesWithCapacity as Dictionary<string, int>;
+}
+
+<h1>Role Management</h1>
+
+<h2>Role Capacities</h2>
+
+@if (availableRolesWithCapacity != null && availableRolesWithCapacity.Count > 0)
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Role</th>
+                <th>Remaining Capacity</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var role in availableRolesWithCapacity)
+            {
+                <tr>
+                    <td>@role.Key</td>
+                    <td>@role.Value</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <p>No roles are available.</p>
+}

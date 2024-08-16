@@ -1,0 +1,58 @@
+﻿@using System.Security.Claims
+
+<aside class="main-sidebar sidebar-dark-primary elevation-4">
+    <div class="sidebar">
+        <nav class="mt-2">
+            <ul class="nav nav-pills nav-sidebar flex-column" data-widget="treeview" role="menu" data-accordion="false">
+                @if (User.IsInRole("Admin"))
+                {
+                    <li class="nav-item">
+                        <a href="~/Kisiler/Index" class="nav-link">
+                            <i class="nav-icon fas fa-users"></i>
+                            <p>Kişiler</p>
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="~/MevcutSinavlar/Index" class="nav-link">
+                            <i class="nav-icon fas fa-calendar-check"></i>
+                            <p>Mevcut Sınavlar</p>
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="~/BasvuruFormu/Index" class="nav-link">
+                            <i class="nav-icon fas fa-file-alt"></i>
+                            <p>Başvur Formu</p>
+                        </a>
+                    </li>
+                }
+                else
+                {
+                    <li>
+                    <a href="~/BasvuruFormu/Details/@User.FindFirst(ClaimTypes.NameIdentifier)?.Value" class="nav-link">
+                        <i class="nav-icon fas fa-user"></i>
+                        <p>hesap işlemleri</p>
+                    </a>
+                    </li>
+                    <li>
+                        <a href="~/Account/ChangePassword/@User.FindFirst(ClaimTypes.NameIdentifier)?.Value" class="nav-link">
+                            <i class="nav-icon fas fa-user"></i>
+                            <p>şifre değiştirme</p>
+                        </a>
+                    </li>
+
+                }
+                <!-- Logout button for all authenticated users -->
+                @if (User.Identity.IsAuthenticated)
+                {
+                    <li class="nav-item">
+                        <form method="post" asp-controller="Account" asp-action="Logout" class="nav-link">
+                            <button type="submit" class="btn btn-danger btn-block">
+                                <i class="fas fa-sign-out-alt"></i> Logout
+                            </button>
+                        </form>
+                    </li>
+                }
+            </ul>
+        </nav>
+    </div>
+</aside>
