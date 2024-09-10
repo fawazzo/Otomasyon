@@ -1,0 +1,72 @@
+﻿@model IEnumerable<Otomasyon.Core.Entities.MevcutSinavlar>
+
+@{
+    ViewData["Title"] = "Mevcut Sınavlar";
+}
+
+<!-- Content Header (Page header) -->
+<div class="content-header">
+    <div class="container-fluid">
+        <div class="row mb-2">
+            <div class="col-sm-6">
+                <h1 class="m-0">Mevcut Sınavlar</h1>
+            </div>
+            <div class="col-sm-6">
+                <ol class="breadcrumb float-sm-right">
+                    <li class="breadcrumb-item"><a href="#">Ana Sayfa</a></li>
+                    <li class="breadcrumb-item active">Mevcut Sınavlar</li>
+                </ol>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Main content -->
+<section class="content">
+    <div class="container-fluid">
+        <!-- Default box -->
+        <div class="card">
+            <div class="card-header">
+                <h3 class="card-title">Sınavlar</h3>
+                <div class="card-tools">
+                    <a asp-action="Create" class="btn btn-primary">yeni bir sınav ekle</a>
+                </div>
+            </div>
+            <div class="card-body">
+                <table class="table table-bordered table-striped">
+                    <thead>
+                        <tr>
+                            <th>@Html.DisplayNameFor(model => model.SinavAdi)</th>
+                            <th>@Html.DisplayNameFor(model => model.dateStart)</th>
+                            <th>@Html.DisplayNameFor(model => model.dateEnd)</th>
+                            <th>@Html.DisplayNameFor(model => model.SinavTarihi)</th>
+                            <th>Actions</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var item in Model)
+                        {
+                            <tr>
+                                <td>@Html.DisplayFor(modelItem => item.SinavAdi)</td>
+                                <td>@Html.DisplayFor(modelItem => item.dateStart)</td>
+                                <td>@Html.DisplayFor(modelItem => item.dateEnd)</td>
+                                <td>@Html.DisplayFor(modelItem => item.SinavTarihi)</td>
+                                <td>
+                                    <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-primary btn-sm">Düzenle</a>
+                                    <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-danger btn-sm">Sil</a>
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+            <!-- /.card-body -->
+            <div class="card-footer">
+                <!-- Footer content if needed -->
+            </div>
+            <!-- /.card-footer-->
+        </div>
+        <!-- /.card -->
+    </div><!-- /.container-fluid -->
+</section>
+<!-- /.content -->

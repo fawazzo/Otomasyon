@@ -1,0 +1,1268 @@
+C:\Users\gaber\source\repos\Otomasyon\Otomasyon\obj\Debug\net8.0\Otomasyon.csproj.AssemblyReference.cache
+C:\Users\gaber\source\repos\Otomasyon\Otomasyon\obj\Debug\net8.0\Otomasyon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gaber\source\repos\Otomasyon\Otomasyon\obj\Debug\net8.0\Otomasyon.AssemblyInfoInputs.cache
+C:\Users\gaber\source\repos\Otomasyon\Otomasyon\obj\Debug\net8.0\Otomasyon.AssemblyInfo.cs
+C:\Users\gaber\source\repos\Otomasyon\Otomasyon\obj\Debug\net8.0\Otomasyon.csproj.CoreCompileInputs.cache
+C:\Users\gaber\source\repos\Otomasyon\Otomasyon\obj\Debug\net8.0\Otomasyon.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gaber\source\repos\Otomasyon\Otomasyon\obj\Debug\net8.0\Otomasyon.RazorAssemblyInfo.cache
+C:\Users\gaber\source\repos\Otomasyon\Otomasyon\obj\Debug\net8.0\Otomasyon.RazorAssemblyInfo.cs
+C:\Users\gaber\source\repos\Otomasyon\Otomasyon\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\gaber\source\repos\Otomasyon\Otomasyon\bin\Debug\net8.0\appsettings.json
+C:\Users\gaber\source\repos\Otomasyon\Otomasyon\bin\Debug\net8.0\Otomasyon.staticwebassets.runtime.json
+C:\Users\gaber\source\repos\Otomasyon\Otomasyon\bin\Debug\net8.0\Otomasyon.exe
+C:\Users\gaber\source\repos\Otomasyon\Otomasyon\bin\Debug\net8.0\Otomasyon.deps.json
+C:\Users\gaber\source\repos\Otomasyon\Otomasyon\bin\Debug\net8.0\Otomasyon.runtimeconfig.json
+C:\Users\gaber\source\repos\Otomasyon\Otomasyon\bin\Debug\net8.0\Otomasyon.dll
+C:\Users\gaber\source\repos\Otomasyon\Otomasyon\bin\Debug\net8.0\Otomasyon.pdb
+C:\Users\gaber\source\repos\Otomasyon\Otomasyon\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\gaber\source\repos\Otomasyon\Otomasyon\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\gaber\source\repos\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\gaber\source\repos\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\gaber\source\repos\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\gaber\source\repos\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\gaber\source\repos\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\gaber\source\repos\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\gaber\source\repos\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\gaber\source\repos\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\gaber\source\repos\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\gaber\source\repos\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\gaber\source\repos\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\gaber\source\repos\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\gaber\source\repos\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\gaber\source\repos\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\gaber\source\repos\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\gaber\source\repos\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\gaber\source\repos\Otomasyon\Otomasyon\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\gaber\source\repos\Otomasyon\Otomasyon\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\gaber\source\repos\Otomasyon\Otomasyon\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\gaber\source\repos\Otomasyon\Otomasyon\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\gaber\source\repos\Otomasyon\Otomasyon\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\gaber\source\repos\Otomasyon\Otomasyon\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\gaber\source\repos\Otomasyon\Otomasyon\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\gaber\source\repos\Otomasyon\Otomasyon\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\gaber\source\repos\Otomasyon\Otomasyon\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\gaber\source\repos\Otomasyon\Otomasyon\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\gaber\source\repos\Otomasyon\Otomasyon\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gaber\source\repos\Otomasyon\Otomasyon\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gaber\source\repos\Otomasyon\Otomasyon\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gaber\source\repos\Otomasyon\Otomasyon\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gaber\source\repos\Otomasyon\Otomasyon\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\gaber\source\repos\Otomasyon\Otomasyon\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\gaber\source\repos\Otomasyon\Otomasyon\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\gaber\source\repos\Otomasyon\Otomasyon\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\gaber\source\repos\Otomasyon\Otomasyon\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\gaber\source\repos\Otomasyon\Otomasyon\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\gaber\source\repos\Otomasyon\Otomasyon\bin\Debug\net8.0\Application.dll
+C:\Users\gaber\source\repos\Otomasyon\Otomasyon\bin\Debug\net8.0\Core.dll
+C:\Users\gaber\source\repos\Otomasyon\Otomasyon\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\gaber\source\repos\Otomasyon\Otomasyon\bin\Debug\net8.0\Presentation.dll
+C:\Users\gaber\source\repos\Otomasyon\Otomasyon\bin\Debug\net8.0\Application.pdb
+C:\Users\gaber\source\repos\Otomasyon\Otomasyon\bin\Debug\net8.0\Core.pdb
+C:\Users\gaber\source\repos\Otomasyon\Otomasyon\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\gaber\source\repos\Otomasyon\Otomasyon\bin\Debug\net8.0\Presentation.pdb
+C:\Users\gaber\source\repos\Otomasyon\Otomasyon\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\gaber\source\repos\Otomasyon\Otomasyon\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\gaber\source\repos\Otomasyon\Otomasyon\obj\Debug\net8.0\staticwebassets\msbuild.Otomasyon.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\gaber\source\repos\Otomasyon\Otomasyon\obj\Debug\net8.0\staticwebassets\msbuild.build.Otomasyon.props
+C:\Users\gaber\source\repos\Otomasyon\Otomasyon\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Otomasyon.props
+C:\Users\gaber\source\repos\Otomasyon\Otomasyon\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Otomasyon.props
+C:\Users\gaber\source\repos\Otomasyon\Otomasyon\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\gaber\source\repos\Otomasyon\Otomasyon\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\gaber\source\repos\Otomasyon\Otomasyon\obj\Debug\net8.0\scopedcss\bundle\Otomasyon.styles.css
+C:\Users\gaber\source\repos\Otomasyon\Otomasyon\obj\Debug\net8.0\scopedcss\projectbundle\Otomasyon.bundle.scp.css
+C:\Users\gaber\source\repos\Otomasyon\Otomasyon\obj\Debug\net8.0\Otomasyon.csproj.Up2Date
+C:\Users\gaber\source\repos\Otomasyon\Otomasyon\obj\Debug\net8.0\Otomasyon.dll
+C:\Users\gaber\source\repos\Otomasyon\Otomasyon\obj\Debug\net8.0\refint\Otomasyon.dll
+C:\Users\gaber\source\repos\Otomasyon\Otomasyon\obj\Debug\net8.0\Otomasyon.pdb
+C:\Users\gaber\source\repos\Otomasyon\Otomasyon\obj\Debug\net8.0\Otomasyon.genruntimeconfig.cache
+C:\Users\gaber\source\repos\Otomasyon\Otomasyon\obj\Debug\net8.0\ref\Otomasyon.dll
+C:\Users\gaber\source\repos\Otomasyon\Otomasyon\bin\Debug\net8.0\Humanizer.dll
+C:\Users\gaber\source\repos\Otomasyon\Otomasyon\bin\Debug\net8.0\MediatR.dll
+C:\Users\gaber\source\repos\Otomasyon\Otomasyon\bin\Debug\net8.0\MediatR.Contracts.dll
+C:\Users\gaber\source\repos\Otomasyon\Otomasyon\bin\Debug\net8.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\gaber\source\repos\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\gaber\source\repos\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\gaber\source\repos\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\gaber\source\repos\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\gaber\source\repos\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\gaber\source\repos\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\gaber\source\repos\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\gaber\source\repos\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\gaber\source\repos\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\gaber\source\repos\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\gaber\source\repos\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\gaber\source\repos\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\gaber\source\repos\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\gaber\source\repos\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\gaber\source\repos\Otomasyon\Otomasyon\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\gaber\source\repos\Otomasyon\Otomasyon\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\gaber\source\repos\Otomasyon\Otomasyon\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\gaber\source\repos\Otomasyon\Otomasyon\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\gaber\source\repos\Otomasyon\Otomasyon\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\gaber\source\repos\Otomasyon\Otomasyon\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\gaber\source\repos\Otomasyon\Otomasyon\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\gaber\source\repos\Otomasyon\Otomasyon\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\gaber\source\repos\Otomasyon\Otomasyon\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gaber\source\repos\Otomasyon\Otomasyon\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gaber\source\repos\Otomasyon\Otomasyon\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gaber\source\repos\Otomasyon\Otomasyon\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gaber\source\repos\Otomasyon\Otomasyon\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gaber\source\repos\Otomasyon\Otomasyon\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gaber\source\repos\Otomasyon\Otomasyon\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gaber\source\repos\Otomasyon\Otomasyon\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gaber\source\repos\Otomasyon\Otomasyon\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gaber\source\repos\Otomasyon\Otomasyon\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gaber\source\repos\Otomasyon\Otomasyon\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gaber\source\repos\Otomasyon\Otomasyon\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gaber\source\repos\Otomasyon\Otomasyon\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gaber\source\repos\Otomasyon\Otomasyon\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gaber\source\repos\Otomasyon\Otomasyon\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gaber\source\repos\Otomasyon\Otomasyon\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gaber\source\repos\Otomasyon\Otomasyon\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gaber\source\repos\Otomasyon\Otomasyon\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gaber\source\repos\Otomasyon\Otomasyon\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gaber\source\repos\Otomasyon\Otomasyon\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gaber\source\repos\Otomasyon\Otomasyon\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gaber\source\repos\Otomasyon\Otomasyon\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gaber\source\repos\Otomasyon\Otomasyon\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gaber\source\repos\Otomasyon\Otomasyon\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gaber\source\repos\Otomasyon\Otomasyon\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gaber\source\repos\Otomasyon\Otomasyon\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gaber\source\repos\Otomasyon\Otomasyon\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gaber\source\repos\Otomasyon\Otomasyon\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gaber\source\repos\Otomasyon\Otomasyon\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gaber\source\repos\Otomasyon\Otomasyon\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gaber\source\repos\Otomasyon\Otomasyon\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gaber\source\repos\Otomasyon\Otomasyon\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gaber\source\repos\Otomasyon\Otomasyon\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gaber\source\repos\Otomasyon\Otomasyon\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gaber\source\repos\Otomasyon\Otomasyon\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gaber\source\repos\Otomasyon\Otomasyon\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gaber\source\repos\Otomasyon\Otomasyon\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gaber\source\repos\Otomasyon\Otomasyon\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gaber\source\repos\Otomasyon\Otomasyon\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gaber\source\repos\Otomasyon\Otomasyon\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gaber\source\repos\Otomasyon\Otomasyon\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gaber\source\repos\Otomasyon\Otomasyon\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gaber\source\repos\Otomasyon\Otomasyon\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gaber\source\repos\Otomasyon\Otomasyon\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gaber\source\repos\Otomasyon\Otomasyon\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gaber\source\repos\Otomasyon\Otomasyon\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gaber\source\repos\Otomasyon\Otomasyon\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gaber\source\repos\Otomasyon\Otomasyon\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gaber\source\repos\Otomasyon\Otomasyon\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gaber\source\repos\Otomasyon\Otomasyon\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gaber\source\repos\Otomasyon\Otomasyon\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gaber\source\repos\Otomasyon\Otomasyon\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gaber\source\repos\Otomasyon\Otomasyon\obj\Debug\net8.0\Otomasyon.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\fawaz\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\fawaz\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\appsettings.json
+C:\Users\fawaz\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\Otomasyon.staticwebassets.runtime.json
+C:\Users\fawaz\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\Otomasyon.exe
+C:\Users\fawaz\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\Otomasyon.deps.json
+C:\Users\fawaz\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\Otomasyon.runtimeconfig.json
+C:\Users\fawaz\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\Otomasyon.dll
+C:\Users\fawaz\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\Otomasyon.pdb
+C:\Users\fawaz\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\fawaz\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\fawaz\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\Humanizer.dll
+C:\Users\fawaz\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\MediatR.dll
+C:\Users\fawaz\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\MediatR.Contracts.dll
+C:\Users\fawaz\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\fawaz\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\fawaz\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\fawaz\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\fawaz\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\fawaz\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\fawaz\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\fawaz\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\fawaz\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\fawaz\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\fawaz\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\fawaz\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\fawaz\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\fawaz\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\fawaz\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\fawaz\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\fawaz\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\fawaz\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\fawaz\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\fawaz\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\fawaz\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\fawaz\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\fawaz\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\fawaz\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\fawaz\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\fawaz\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\fawaz\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\fawaz\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\fawaz\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\fawaz\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\fawaz\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\fawaz\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\fawaz\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\fawaz\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\fawaz\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\fawaz\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\fawaz\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\fawaz\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\fawaz\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\fawaz\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\fawaz\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\fawaz\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\fawaz\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\fawaz\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\fawaz\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\fawaz\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\fawaz\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\fawaz\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fawaz\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fawaz\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fawaz\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fawaz\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fawaz\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fawaz\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fawaz\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fawaz\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fawaz\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fawaz\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fawaz\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fawaz\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fawaz\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\fawaz\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\fawaz\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\fawaz\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\fawaz\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\fawaz\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\fawaz\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\fawaz\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\fawaz\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\fawaz\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\fawaz\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\fawaz\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\fawaz\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\fawaz\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\fawaz\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\fawaz\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\fawaz\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\fawaz\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\fawaz\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\fawaz\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\fawaz\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\fawaz\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\fawaz\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\fawaz\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\fawaz\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\fawaz\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\fawaz\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\fawaz\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\fawaz\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\fawaz\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\fawaz\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\fawaz\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\fawaz\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\fawaz\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\fawaz\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\fawaz\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\fawaz\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\fawaz\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\fawaz\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\fawaz\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\fawaz\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\fawaz\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\fawaz\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\fawaz\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\fawaz\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\fawaz\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\fawaz\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\fawaz\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\fawaz\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\fawaz\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\fawaz\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\fawaz\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\Application.dll
+C:\Users\fawaz\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\Core.dll
+C:\Users\fawaz\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\fawaz\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\Presentation.dll
+C:\Users\fawaz\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\Services.dll
+C:\Users\fawaz\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\Application.pdb
+C:\Users\fawaz\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\Core.pdb
+C:\Users\fawaz\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\fawaz\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\Presentation.pdb
+C:\Users\fawaz\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\Services.pdb
+C:\Users\fawaz\Desktop\Otomasyon\Otomasyon\obj\Debug\net8.0\Otomasyon.csproj.AssemblyReference.cache
+C:\Users\fawaz\Desktop\Otomasyon\Otomasyon\obj\Debug\net8.0\Otomasyon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fawaz\Desktop\Otomasyon\Otomasyon\obj\Debug\net8.0\Otomasyon.AssemblyInfoInputs.cache
+C:\Users\fawaz\Desktop\Otomasyon\Otomasyon\obj\Debug\net8.0\Otomasyon.AssemblyInfo.cs
+C:\Users\fawaz\Desktop\Otomasyon\Otomasyon\obj\Debug\net8.0\Otomasyon.csproj.CoreCompileInputs.cache
+C:\Users\fawaz\Desktop\Otomasyon\Otomasyon\obj\Debug\net8.0\Otomasyon.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\fawaz\Desktop\Otomasyon\Otomasyon\obj\Debug\net8.0\Otomasyon.RazorAssemblyInfo.cache
+C:\Users\fawaz\Desktop\Otomasyon\Otomasyon\obj\Debug\net8.0\Otomasyon.RazorAssemblyInfo.cs
+C:\Users\fawaz\Desktop\Otomasyon\Otomasyon\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\fawaz\Desktop\Otomasyon\Otomasyon\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\fawaz\Desktop\Otomasyon\Otomasyon\obj\Debug\net8.0\staticwebassets\msbuild.Otomasyon.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\fawaz\Desktop\Otomasyon\Otomasyon\obj\Debug\net8.0\staticwebassets\msbuild.build.Otomasyon.props
+C:\Users\fawaz\Desktop\Otomasyon\Otomasyon\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Otomasyon.props
+C:\Users\fawaz\Desktop\Otomasyon\Otomasyon\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Otomasyon.props
+C:\Users\fawaz\Desktop\Otomasyon\Otomasyon\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\fawaz\Desktop\Otomasyon\Otomasyon\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\fawaz\Desktop\Otomasyon\Otomasyon\obj\Debug\net8.0\scopedcss\bundle\Otomasyon.styles.css
+C:\Users\fawaz\Desktop\Otomasyon\Otomasyon\obj\Debug\net8.0\scopedcss\projectbundle\Otomasyon.bundle.scp.css
+C:\Users\fawaz\Desktop\Otomasyon\Otomasyon\obj\Debug\net8.0\Otomasyon.csproj.Up2Date
+C:\Users\fawaz\Desktop\Otomasyon\Otomasyon\obj\Debug\net8.0\Otomasyon.dll
+C:\Users\fawaz\Desktop\Otomasyon\Otomasyon\obj\Debug\net8.0\refint\Otomasyon.dll
+C:\Users\fawaz\Desktop\Otomasyon\Otomasyon\obj\Debug\net8.0\Otomasyon.pdb
+C:\Users\fawaz\Desktop\Otomasyon\Otomasyon\obj\Debug\net8.0\Otomasyon.genruntimeconfig.cache
+C:\Users\fawaz\Desktop\Otomasyon\Otomasyon\obj\Debug\net8.0\ref\Otomasyon.dll
+C:\Users\nureddin\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\nureddin\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\appsettings.json
+C:\Users\nureddin\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\Otomasyon.staticwebassets.runtime.json
+C:\Users\nureddin\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\Otomasyon.exe
+C:\Users\nureddin\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\Otomasyon.deps.json
+C:\Users\nureddin\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\Otomasyon.runtimeconfig.json
+C:\Users\nureddin\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\Otomasyon.dll
+C:\Users\nureddin\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\Otomasyon.pdb
+C:\Users\nureddin\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\nureddin\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\nureddin\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\Humanizer.dll
+C:\Users\nureddin\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\MediatR.dll
+C:\Users\nureddin\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\MediatR.Contracts.dll
+C:\Users\nureddin\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\nureddin\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\nureddin\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\nureddin\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\nureddin\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\nureddin\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\nureddin\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\nureddin\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\nureddin\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\nureddin\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\nureddin\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\nureddin\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\nureddin\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\nureddin\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\nureddin\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\nureddin\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\nureddin\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\nureddin\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\nureddin\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\nureddin\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\nureddin\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\nureddin\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\nureddin\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\nureddin\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\nureddin\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\nureddin\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\nureddin\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\nureddin\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\nureddin\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\nureddin\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\nureddin\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\nureddin\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\nureddin\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\nureddin\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\nureddin\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\nureddin\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\nureddin\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\nureddin\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\nureddin\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\nureddin\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\nureddin\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\nureddin\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\nureddin\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\nureddin\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nureddin\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\nureddin\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\nureddin\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\nureddin\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nureddin\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nureddin\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nureddin\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nureddin\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nureddin\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nureddin\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nureddin\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nureddin\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nureddin\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nureddin\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nureddin\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nureddin\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nureddin\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nureddin\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nureddin\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nureddin\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nureddin\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nureddin\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nureddin\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nureddin\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nureddin\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nureddin\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nureddin\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nureddin\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nureddin\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nureddin\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nureddin\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nureddin\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nureddin\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nureddin\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nureddin\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nureddin\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nureddin\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nureddin\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nureddin\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nureddin\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nureddin\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nureddin\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nureddin\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nureddin\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nureddin\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nureddin\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nureddin\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nureddin\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nureddin\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nureddin\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nureddin\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nureddin\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nureddin\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nureddin\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nureddin\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nureddin\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\nureddin\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\nureddin\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nureddin\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nureddin\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nureddin\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nureddin\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\nureddin\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\nureddin\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\nureddin\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\nureddin\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nureddin\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\nureddin\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\Application.dll
+C:\Users\nureddin\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\Core.dll
+C:\Users\nureddin\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\nureddin\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\Presentation.dll
+C:\Users\nureddin\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\Services.dll
+C:\Users\nureddin\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\Application.pdb
+C:\Users\nureddin\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\Core.pdb
+C:\Users\nureddin\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\nureddin\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\Presentation.pdb
+C:\Users\nureddin\Desktop\Otomasyon\Otomasyon\bin\Debug\net8.0\Services.pdb
+C:\Users\nureddin\Desktop\Otomasyon\Otomasyon\obj\Debug\net8.0\Otomasyon.csproj.AssemblyReference.cache
+C:\Users\nureddin\Desktop\Otomasyon\Otomasyon\obj\Debug\net8.0\Otomasyon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nureddin\Desktop\Otomasyon\Otomasyon\obj\Debug\net8.0\Otomasyon.AssemblyInfoInputs.cache
+C:\Users\nureddin\Desktop\Otomasyon\Otomasyon\obj\Debug\net8.0\Otomasyon.AssemblyInfo.cs
+C:\Users\nureddin\Desktop\Otomasyon\Otomasyon\obj\Debug\net8.0\Otomasyon.csproj.CoreCompileInputs.cache
+C:\Users\nureddin\Desktop\Otomasyon\Otomasyon\obj\Debug\net8.0\Otomasyon.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\nureddin\Desktop\Otomasyon\Otomasyon\obj\Debug\net8.0\Otomasyon.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nureddin\Desktop\Otomasyon\Otomasyon\obj\Debug\net8.0\Otomasyon.RazorAssemblyInfo.cache
+C:\Users\nureddin\Desktop\Otomasyon\Otomasyon\obj\Debug\net8.0\Otomasyon.RazorAssemblyInfo.cs
+C:\Users\nureddin\Desktop\Otomasyon\Otomasyon\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\nureddin\Desktop\Otomasyon\Otomasyon\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\nureddin\Desktop\Otomasyon\Otomasyon\obj\Debug\net8.0\staticwebassets\msbuild.Otomasyon.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\nureddin\Desktop\Otomasyon\Otomasyon\obj\Debug\net8.0\staticwebassets\msbuild.build.Otomasyon.props
+C:\Users\nureddin\Desktop\Otomasyon\Otomasyon\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Otomasyon.props
+C:\Users\nureddin\Desktop\Otomasyon\Otomasyon\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Otomasyon.props
+C:\Users\nureddin\Desktop\Otomasyon\Otomasyon\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\nureddin\Desktop\Otomasyon\Otomasyon\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\nureddin\Desktop\Otomasyon\Otomasyon\obj\Debug\net8.0\scopedcss\bundle\Otomasyon.styles.css
+C:\Users\nureddin\Desktop\Otomasyon\Otomasyon\obj\Debug\net8.0\scopedcss\projectbundle\Otomasyon.bundle.scp.css
+C:\Users\nureddin\Desktop\Otomasyon\Otomasyon\obj\Debug\net8.0\Otomasyon.csproj.Up2Date
+C:\Users\nureddin\Desktop\Otomasyon\Otomasyon\obj\Debug\net8.0\Otomasyon.dll
+C:\Users\nureddin\Desktop\Otomasyon\Otomasyon\obj\Debug\net8.0\refint\Otomasyon.dll
+C:\Users\nureddin\Desktop\Otomasyon\Otomasyon\obj\Debug\net8.0\Otomasyon.pdb
+C:\Users\nureddin\Desktop\Otomasyon\Otomasyon\obj\Debug\net8.0\Otomasyon.genruntimeconfig.cache
+C:\Users\nureddin\Desktop\Otomasyon\Otomasyon\obj\Debug\net8.0\ref\Otomasyon.dll
+C:\Users\fawaz\Desktop\StajOto\Otomasyon\Otomasyon\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\fawaz\Desktop\StajOto\Otomasyon\Otomasyon\bin\Debug\net8.0\appsettings.json
+C:\Users\fawaz\Desktop\StajOto\Otomasyon\Otomasyon\bin\Debug\net8.0\Otomasyon.staticwebassets.runtime.json
+C:\Users\fawaz\Desktop\StajOto\Otomasyon\Otomasyon\bin\Debug\net8.0\Otomasyon.exe
+C:\Users\fawaz\Desktop\StajOto\Otomasyon\Otomasyon\bin\Debug\net8.0\Otomasyon.deps.json
+C:\Users\fawaz\Desktop\StajOto\Otomasyon\Otomasyon\bin\Debug\net8.0\Otomasyon.runtimeconfig.json
+C:\Users\fawaz\Desktop\StajOto\Otomasyon\Otomasyon\bin\Debug\net8.0\Otomasyon.dll
+C:\Users\fawaz\Desktop\StajOto\Otomasyon\Otomasyon\bin\Debug\net8.0\Otomasyon.pdb
+C:\Users\fawaz\Desktop\StajOto\Otomasyon\Otomasyon\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\fawaz\Desktop\StajOto\Otomasyon\Otomasyon\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\fawaz\Desktop\StajOto\Otomasyon\Otomasyon\bin\Debug\net8.0\Humanizer.dll
+C:\Users\fawaz\Desktop\StajOto\Otomasyon\Otomasyon\bin\Debug\net8.0\MediatR.dll
+C:\Users\fawaz\Desktop\StajOto\Otomasyon\Otomasyon\bin\Debug\net8.0\MediatR.Contracts.dll
+C:\Users\fawaz\Desktop\StajOto\Otomasyon\Otomasyon\bin\Debug\net8.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\fawaz\Desktop\StajOto\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\fawaz\Desktop\StajOto\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\fawaz\Desktop\StajOto\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\fawaz\Desktop\StajOto\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\fawaz\Desktop\StajOto\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\fawaz\Desktop\StajOto\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\fawaz\Desktop\StajOto\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\fawaz\Desktop\StajOto\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\fawaz\Desktop\StajOto\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\fawaz\Desktop\StajOto\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\fawaz\Desktop\StajOto\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\fawaz\Desktop\StajOto\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\fawaz\Desktop\StajOto\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\fawaz\Desktop\StajOto\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\fawaz\Desktop\StajOto\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\fawaz\Desktop\StajOto\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\fawaz\Desktop\StajOto\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\fawaz\Desktop\StajOto\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\fawaz\Desktop\StajOto\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\fawaz\Desktop\StajOto\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\fawaz\Desktop\StajOto\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\fawaz\Desktop\StajOto\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\fawaz\Desktop\StajOto\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\fawaz\Desktop\StajOto\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\fawaz\Desktop\StajOto\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\fawaz\Desktop\StajOto\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\fawaz\Desktop\StajOto\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\fawaz\Desktop\StajOto\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\fawaz\Desktop\StajOto\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\fawaz\Desktop\StajOto\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\fawaz\Desktop\StajOto\Otomasyon\Otomasyon\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\fawaz\Desktop\StajOto\Otomasyon\Otomasyon\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\fawaz\Desktop\StajOto\Otomasyon\Otomasyon\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\fawaz\Desktop\StajOto\Otomasyon\Otomasyon\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\fawaz\Desktop\StajOto\Otomasyon\Otomasyon\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\fawaz\Desktop\StajOto\Otomasyon\Otomasyon\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\fawaz\Desktop\StajOto\Otomasyon\Otomasyon\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\fawaz\Desktop\StajOto\Otomasyon\Otomasyon\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\fawaz\Desktop\StajOto\Otomasyon\Otomasyon\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\fawaz\Desktop\StajOto\Otomasyon\Otomasyon\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\fawaz\Desktop\StajOto\Otomasyon\Otomasyon\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\fawaz\Desktop\StajOto\Otomasyon\Otomasyon\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\fawaz\Desktop\StajOto\Otomasyon\Otomasyon\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\fawaz\Desktop\StajOto\Otomasyon\Otomasyon\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\fawaz\Desktop\StajOto\Otomasyon\Otomasyon\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\fawaz\Desktop\StajOto\Otomasyon\Otomasyon\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\fawaz\Desktop\StajOto\Otomasyon\Otomasyon\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fawaz\Desktop\StajOto\Otomasyon\Otomasyon\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fawaz\Desktop\StajOto\Otomasyon\Otomasyon\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fawaz\Desktop\StajOto\Otomasyon\Otomasyon\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fawaz\Desktop\StajOto\Otomasyon\Otomasyon\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fawaz\Desktop\StajOto\Otomasyon\Otomasyon\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fawaz\Desktop\StajOto\Otomasyon\Otomasyon\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fawaz\Desktop\StajOto\Otomasyon\Otomasyon\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fawaz\Desktop\StajOto\Otomasyon\Otomasyon\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fawaz\Desktop\StajOto\Otomasyon\Otomasyon\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fawaz\Desktop\StajOto\Otomasyon\Otomasyon\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fawaz\Desktop\StajOto\Otomasyon\Otomasyon\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fawaz\Desktop\StajOto\Otomasyon\Otomasyon\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fawaz\Desktop\StajOto\Otomasyon\Otomasyon\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\fawaz\Desktop\StajOto\Otomasyon\Otomasyon\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\fawaz\Desktop\StajOto\Otomasyon\Otomasyon\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\fawaz\Desktop\StajOto\Otomasyon\Otomasyon\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\fawaz\Desktop\StajOto\Otomasyon\Otomasyon\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\fawaz\Desktop\StajOto\Otomasyon\Otomasyon\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\fawaz\Desktop\StajOto\Otomasyon\Otomasyon\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\fawaz\Desktop\StajOto\Otomasyon\Otomasyon\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\fawaz\Desktop\StajOto\Otomasyon\Otomasyon\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\fawaz\Desktop\StajOto\Otomasyon\Otomasyon\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\fawaz\Desktop\StajOto\Otomasyon\Otomasyon\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\fawaz\Desktop\StajOto\Otomasyon\Otomasyon\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\fawaz\Desktop\StajOto\Otomasyon\Otomasyon\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\fawaz\Desktop\StajOto\Otomasyon\Otomasyon\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\fawaz\Desktop\StajOto\Otomasyon\Otomasyon\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\fawaz\Desktop\StajOto\Otomasyon\Otomasyon\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\fawaz\Desktop\StajOto\Otomasyon\Otomasyon\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\fawaz\Desktop\StajOto\Otomasyon\Otomasyon\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\fawaz\Desktop\StajOto\Otomasyon\Otomasyon\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\fawaz\Desktop\StajOto\Otomasyon\Otomasyon\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\fawaz\Desktop\StajOto\Otomasyon\Otomasyon\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\fawaz\Desktop\StajOto\Otomasyon\Otomasyon\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\fawaz\Desktop\StajOto\Otomasyon\Otomasyon\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\fawaz\Desktop\StajOto\Otomasyon\Otomasyon\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\fawaz\Desktop\StajOto\Otomasyon\Otomasyon\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\fawaz\Desktop\StajOto\Otomasyon\Otomasyon\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\fawaz\Desktop\StajOto\Otomasyon\Otomasyon\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\fawaz\Desktop\StajOto\Otomasyon\Otomasyon\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\fawaz\Desktop\StajOto\Otomasyon\Otomasyon\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\fawaz\Desktop\StajOto\Otomasyon\Otomasyon\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\fawaz\Desktop\StajOto\Otomasyon\Otomasyon\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\fawaz\Desktop\StajOto\Otomasyon\Otomasyon\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\fawaz\Desktop\StajOto\Otomasyon\Otomasyon\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\fawaz\Desktop\StajOto\Otomasyon\Otomasyon\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\fawaz\Desktop\StajOto\Otomasyon\Otomasyon\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\fawaz\Desktop\StajOto\Otomasyon\Otomasyon\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\fawaz\Desktop\StajOto\Otomasyon\Otomasyon\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\fawaz\Desktop\StajOto\Otomasyon\Otomasyon\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\fawaz\Desktop\StajOto\Otomasyon\Otomasyon\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\fawaz\Desktop\StajOto\Otomasyon\Otomasyon\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\fawaz\Desktop\StajOto\Otomasyon\Otomasyon\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\fawaz\Desktop\StajOto\Otomasyon\Otomasyon\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\fawaz\Desktop\StajOto\Otomasyon\Otomasyon\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\fawaz\Desktop\StajOto\Otomasyon\Otomasyon\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\fawaz\Desktop\StajOto\Otomasyon\Otomasyon\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\fawaz\Desktop\StajOto\Otomasyon\Otomasyon\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\fawaz\Desktop\StajOto\Otomasyon\Otomasyon\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\fawaz\Desktop\StajOto\Otomasyon\Otomasyon\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\fawaz\Desktop\StajOto\Otomasyon\Otomasyon\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\fawaz\Desktop\StajOto\Otomasyon\Otomasyon\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\fawaz\Desktop\StajOto\Otomasyon\Otomasyon\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\fawaz\Desktop\StajOto\Otomasyon\Otomasyon\bin\Debug\net8.0\Application.dll
+C:\Users\fawaz\Desktop\StajOto\Otomasyon\Otomasyon\bin\Debug\net8.0\Core.dll
+C:\Users\fawaz\Desktop\StajOto\Otomasyon\Otomasyon\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\fawaz\Desktop\StajOto\Otomasyon\Otomasyon\bin\Debug\net8.0\Presentation.dll
+C:\Users\fawaz\Desktop\StajOto\Otomasyon\Otomasyon\bin\Debug\net8.0\Services.dll
+C:\Users\fawaz\Desktop\StajOto\Otomasyon\Otomasyon\bin\Debug\net8.0\Application.pdb
+C:\Users\fawaz\Desktop\StajOto\Otomasyon\Otomasyon\bin\Debug\net8.0\Core.pdb
+C:\Users\fawaz\Desktop\StajOto\Otomasyon\Otomasyon\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\fawaz\Desktop\StajOto\Otomasyon\Otomasyon\bin\Debug\net8.0\Presentation.pdb
+C:\Users\fawaz\Desktop\StajOto\Otomasyon\Otomasyon\bin\Debug\net8.0\Services.pdb
+C:\Users\fawaz\Desktop\StajOto\Otomasyon\Otomasyon\obj\Debug\net8.0\Otomasyon.csproj.AssemblyReference.cache
+C:\Users\fawaz\Desktop\StajOto\Otomasyon\Otomasyon\obj\Debug\net8.0\Otomasyon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fawaz\Desktop\StajOto\Otomasyon\Otomasyon\obj\Debug\net8.0\Otomasyon.AssemblyInfoInputs.cache
+C:\Users\fawaz\Desktop\StajOto\Otomasyon\Otomasyon\obj\Debug\net8.0\Otomasyon.AssemblyInfo.cs
+C:\Users\fawaz\Desktop\StajOto\Otomasyon\Otomasyon\obj\Debug\net8.0\Otomasyon.csproj.CoreCompileInputs.cache
+C:\Users\fawaz\Desktop\StajOto\Otomasyon\Otomasyon\obj\Debug\net8.0\Otomasyon.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\fawaz\Desktop\StajOto\Otomasyon\Otomasyon\obj\Debug\net8.0\Otomasyon.RazorAssemblyInfo.cache
+C:\Users\fawaz\Desktop\StajOto\Otomasyon\Otomasyon\obj\Debug\net8.0\Otomasyon.RazorAssemblyInfo.cs
+C:\Users\fawaz\Desktop\StajOto\Otomasyon\Otomasyon\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\fawaz\Desktop\StajOto\Otomasyon\Otomasyon\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\fawaz\Desktop\StajOto\Otomasyon\Otomasyon\obj\Debug\net8.0\staticwebassets\msbuild.Otomasyon.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\fawaz\Desktop\StajOto\Otomasyon\Otomasyon\obj\Debug\net8.0\staticwebassets\msbuild.build.Otomasyon.props
+C:\Users\fawaz\Desktop\StajOto\Otomasyon\Otomasyon\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Otomasyon.props
+C:\Users\fawaz\Desktop\StajOto\Otomasyon\Otomasyon\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Otomasyon.props
+C:\Users\fawaz\Desktop\StajOto\Otomasyon\Otomasyon\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\fawaz\Desktop\StajOto\Otomasyon\Otomasyon\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\fawaz\Desktop\StajOto\Otomasyon\Otomasyon\obj\Debug\net8.0\scopedcss\bundle\Otomasyon.styles.css
+C:\Users\fawaz\Desktop\StajOto\Otomasyon\Otomasyon\obj\Debug\net8.0\scopedcss\projectbundle\Otomasyon.bundle.scp.css
+C:\Users\fawaz\Desktop\StajOto\Otomasyon\Otomasyon\obj\Debug\net8.0\Otomasyon.csproj.Up2Date
+C:\Users\fawaz\Desktop\StajOto\Otomasyon\Otomasyon\obj\Debug\net8.0\Otomasyon.dll
+C:\Users\fawaz\Desktop\StajOto\Otomasyon\Otomasyon\obj\Debug\net8.0\refint\Otomasyon.dll
+C:\Users\fawaz\Desktop\StajOto\Otomasyon\Otomasyon\obj\Debug\net8.0\Otomasyon.pdb
+C:\Users\fawaz\Desktop\StajOto\Otomasyon\Otomasyon\obj\Debug\net8.0\Otomasyon.genruntimeconfig.cache
+C:\Users\fawaz\Desktop\StajOto\Otomasyon\Otomasyon\obj\Debug\net8.0\ref\Otomasyon.dll
+C:\Users\gaber\OneDrive\سطح المكتب\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\gaber\OneDrive\سطح المكتب\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\appsettings.json
+C:\Users\gaber\OneDrive\سطح المكتب\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\Otomasyon.staticwebassets.runtime.json
+C:\Users\gaber\OneDrive\سطح المكتب\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\Otomasyon.exe
+C:\Users\gaber\OneDrive\سطح المكتب\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\Otomasyon.deps.json
+C:\Users\gaber\OneDrive\سطح المكتب\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\Otomasyon.runtimeconfig.json
+C:\Users\gaber\OneDrive\سطح المكتب\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\Otomasyon.dll
+C:\Users\gaber\OneDrive\سطح المكتب\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\Otomasyon.pdb
+C:\Users\gaber\OneDrive\سطح المكتب\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\gaber\OneDrive\سطح المكتب\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\gaber\OneDrive\سطح المكتب\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\Humanizer.dll
+C:\Users\gaber\OneDrive\سطح المكتب\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\MediatR.dll
+C:\Users\gaber\OneDrive\سطح المكتب\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\MediatR.Contracts.dll
+C:\Users\gaber\OneDrive\سطح المكتب\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\gaber\OneDrive\سطح المكتب\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\gaber\OneDrive\سطح المكتب\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\gaber\OneDrive\سطح المكتب\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\gaber\OneDrive\سطح المكتب\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\gaber\OneDrive\سطح المكتب\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\gaber\OneDrive\سطح المكتب\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\gaber\OneDrive\سطح المكتب\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\gaber\OneDrive\سطح المكتب\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\gaber\OneDrive\سطح المكتب\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\gaber\OneDrive\سطح المكتب\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\gaber\OneDrive\سطح المكتب\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\gaber\OneDrive\سطح المكتب\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\gaber\OneDrive\سطح المكتب\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\gaber\OneDrive\سطح المكتب\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\gaber\OneDrive\سطح المكتب\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\gaber\OneDrive\سطح المكتب\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\gaber\OneDrive\سطح المكتب\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\gaber\OneDrive\سطح المكتب\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\gaber\OneDrive\سطح المكتب\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\gaber\OneDrive\سطح المكتب\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\gaber\OneDrive\سطح المكتب\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\gaber\OneDrive\سطح المكتب\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\gaber\OneDrive\سطح المكتب\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\gaber\OneDrive\سطح المكتب\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\gaber\OneDrive\سطح المكتب\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\gaber\OneDrive\سطح المكتب\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\gaber\OneDrive\سطح المكتب\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\gaber\OneDrive\سطح المكتب\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\gaber\OneDrive\سطح المكتب\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\gaber\OneDrive\سطح المكتب\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\gaber\OneDrive\سطح المكتب\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\gaber\OneDrive\سطح المكتب\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\gaber\OneDrive\سطح المكتب\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\gaber\OneDrive\سطح المكتب\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\gaber\OneDrive\سطح المكتب\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\gaber\OneDrive\سطح المكتب\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\gaber\OneDrive\سطح المكتب\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\gaber\OneDrive\سطح المكتب\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\gaber\OneDrive\سطح المكتب\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\gaber\OneDrive\سطح المكتب\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\gaber\OneDrive\سطح المكتب\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\gaber\OneDrive\سطح المكتب\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\gaber\OneDrive\سطح المكتب\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\gaber\OneDrive\سطح المكتب\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\gaber\OneDrive\سطح المكتب\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\gaber\OneDrive\سطح المكتب\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\gaber\OneDrive\سطح المكتب\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gaber\OneDrive\سطح المكتب\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gaber\OneDrive\سطح المكتب\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gaber\OneDrive\سطح المكتب\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gaber\OneDrive\سطح المكتب\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gaber\OneDrive\سطح المكتب\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gaber\OneDrive\سطح المكتب\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gaber\OneDrive\سطح المكتب\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gaber\OneDrive\سطح المكتب\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gaber\OneDrive\سطح المكتب\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gaber\OneDrive\سطح المكتب\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gaber\OneDrive\سطح المكتب\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gaber\OneDrive\سطح المكتب\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gaber\OneDrive\سطح المكتب\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gaber\OneDrive\سطح المكتب\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gaber\OneDrive\سطح المكتب\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gaber\OneDrive\سطح المكتب\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gaber\OneDrive\سطح المكتب\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gaber\OneDrive\سطح المكتب\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gaber\OneDrive\سطح المكتب\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gaber\OneDrive\سطح المكتب\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gaber\OneDrive\سطح المكتب\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gaber\OneDrive\سطح المكتب\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gaber\OneDrive\سطح المكتب\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gaber\OneDrive\سطح المكتب\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gaber\OneDrive\سطح المكتب\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gaber\OneDrive\سطح المكتب\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gaber\OneDrive\سطح المكتب\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gaber\OneDrive\سطح المكتب\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gaber\OneDrive\سطح المكتب\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gaber\OneDrive\سطح المكتب\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gaber\OneDrive\سطح المكتب\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gaber\OneDrive\سطح المكتب\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gaber\OneDrive\سطح المكتب\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gaber\OneDrive\سطح المكتب\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gaber\OneDrive\سطح المكتب\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gaber\OneDrive\سطح المكتب\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gaber\OneDrive\سطح المكتب\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gaber\OneDrive\سطح المكتب\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gaber\OneDrive\سطح المكتب\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gaber\OneDrive\سطح المكتب\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gaber\OneDrive\سطح المكتب\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gaber\OneDrive\سطح المكتب\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gaber\OneDrive\سطح المكتب\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gaber\OneDrive\سطح المكتب\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gaber\OneDrive\سطح المكتب\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gaber\OneDrive\سطح المكتب\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gaber\OneDrive\سطح المكتب\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gaber\OneDrive\سطح المكتب\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gaber\OneDrive\سطح المكتب\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gaber\OneDrive\سطح المكتب\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gaber\OneDrive\سطح المكتب\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gaber\OneDrive\سطح المكتب\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\gaber\OneDrive\سطح المكتب\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\gaber\OneDrive\سطح المكتب\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gaber\OneDrive\سطح المكتب\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gaber\OneDrive\سطح المكتب\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gaber\OneDrive\سطح المكتب\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gaber\OneDrive\سطح المكتب\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\gaber\OneDrive\سطح المكتب\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\gaber\OneDrive\سطح المكتب\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\gaber\OneDrive\سطح المكتب\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\gaber\OneDrive\سطح المكتب\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\gaber\OneDrive\سطح المكتب\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\gaber\OneDrive\سطح المكتب\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\Application.dll
+C:\Users\gaber\OneDrive\سطح المكتب\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\Core.dll
+C:\Users\gaber\OneDrive\سطح المكتب\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\gaber\OneDrive\سطح المكتب\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\Presentation.dll
+C:\Users\gaber\OneDrive\سطح المكتب\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\Services.dll
+C:\Users\gaber\OneDrive\سطح المكتب\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\Application.pdb
+C:\Users\gaber\OneDrive\سطح المكتب\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\Core.pdb
+C:\Users\gaber\OneDrive\سطح المكتب\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\gaber\OneDrive\سطح المكتب\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\Presentation.pdb
+C:\Users\gaber\OneDrive\سطح المكتب\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\Services.pdb
+C:\Users\gaber\OneDrive\سطح المكتب\Otomasyon\Otomasyon\Otomasyon\obj\Debug\net8.0\Otomasyon.csproj.AssemblyReference.cache
+C:\Users\gaber\OneDrive\سطح المكتب\Otomasyon\Otomasyon\Otomasyon\obj\Debug\net8.0\Otomasyon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gaber\OneDrive\سطح المكتب\Otomasyon\Otomasyon\Otomasyon\obj\Debug\net8.0\Otomasyon.AssemblyInfoInputs.cache
+C:\Users\gaber\OneDrive\سطح المكتب\Otomasyon\Otomasyon\Otomasyon\obj\Debug\net8.0\Otomasyon.AssemblyInfo.cs
+C:\Users\gaber\OneDrive\سطح المكتب\Otomasyon\Otomasyon\Otomasyon\obj\Debug\net8.0\Otomasyon.csproj.CoreCompileInputs.cache
+C:\Users\gaber\OneDrive\سطح المكتب\Otomasyon\Otomasyon\Otomasyon\obj\Debug\net8.0\Otomasyon.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\gaber\OneDrive\سطح المكتب\Otomasyon\Otomasyon\Otomasyon\obj\Debug\net8.0\Otomasyon.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gaber\OneDrive\سطح المكتب\Otomasyon\Otomasyon\Otomasyon\obj\Debug\net8.0\Otomasyon.RazorAssemblyInfo.cache
+C:\Users\gaber\OneDrive\سطح المكتب\Otomasyon\Otomasyon\Otomasyon\obj\Debug\net8.0\Otomasyon.RazorAssemblyInfo.cs
+C:\Users\gaber\OneDrive\سطح المكتب\Otomasyon\Otomasyon\Otomasyon\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\gaber\OneDrive\سطح المكتب\Otomasyon\Otomasyon\Otomasyon\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\gaber\OneDrive\سطح المكتب\Otomasyon\Otomasyon\Otomasyon\obj\Debug\net8.0\staticwebassets\msbuild.Otomasyon.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\gaber\OneDrive\سطح المكتب\Otomasyon\Otomasyon\Otomasyon\obj\Debug\net8.0\staticwebassets\msbuild.build.Otomasyon.props
+C:\Users\gaber\OneDrive\سطح المكتب\Otomasyon\Otomasyon\Otomasyon\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Otomasyon.props
+C:\Users\gaber\OneDrive\سطح المكتب\Otomasyon\Otomasyon\Otomasyon\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Otomasyon.props
+C:\Users\gaber\OneDrive\سطح المكتب\Otomasyon\Otomasyon\Otomasyon\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\gaber\OneDrive\سطح المكتب\Otomasyon\Otomasyon\Otomasyon\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\gaber\OneDrive\سطح المكتب\Otomasyon\Otomasyon\Otomasyon\obj\Debug\net8.0\scopedcss\bundle\Otomasyon.styles.css
+C:\Users\gaber\OneDrive\سطح المكتب\Otomasyon\Otomasyon\Otomasyon\obj\Debug\net8.0\scopedcss\projectbundle\Otomasyon.bundle.scp.css
+C:\Users\gaber\OneDrive\سطح المكتب\Otomasyon\Otomasyon\Otomasyon\obj\Debug\net8.0\Otomasyon.csproj.Up2Date
+C:\Users\gaber\OneDrive\سطح المكتب\Otomasyon\Otomasyon\Otomasyon\obj\Debug\net8.0\Otomasyon.dll
+C:\Users\gaber\OneDrive\سطح المكتب\Otomasyon\Otomasyon\Otomasyon\obj\Debug\net8.0\refint\Otomasyon.dll
+C:\Users\gaber\OneDrive\سطح المكتب\Otomasyon\Otomasyon\Otomasyon\obj\Debug\net8.0\Otomasyon.pdb
+C:\Users\gaber\OneDrive\سطح المكتب\Otomasyon\Otomasyon\Otomasyon\obj\Debug\net8.0\Otomasyon.genruntimeconfig.cache
+C:\Users\gaber\OneDrive\سطح المكتب\Otomasyon\Otomasyon\Otomasyon\obj\Debug\net8.0\ref\Otomasyon.dll
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\appsettings.json
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\Otomasyon.staticwebassets.runtime.json
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\Otomasyon.exe
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\Otomasyon.deps.json
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\Otomasyon.runtimeconfig.json
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\Otomasyon.dll
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\Otomasyon.pdb
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\Humanizer.dll
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\MediatR.dll
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\MediatR.Contracts.dll
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\Application.dll
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\Core.dll
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\Presentation.dll
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\Services.dll
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\Application.pdb
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\Core.pdb
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\Presentation.pdb
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\Otomasyon\bin\Debug\net8.0\Services.pdb
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\Otomasyon\obj\Debug\net8.0\Otomasyon.csproj.AssemblyReference.cache
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\Otomasyon\obj\Debug\net8.0\Otomasyon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\Otomasyon\obj\Debug\net8.0\Otomasyon.AssemblyInfoInputs.cache
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\Otomasyon\obj\Debug\net8.0\Otomasyon.AssemblyInfo.cs
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\Otomasyon\obj\Debug\net8.0\Otomasyon.csproj.CoreCompileInputs.cache
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\Otomasyon\obj\Debug\net8.0\Otomasyon.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\Otomasyon\obj\Debug\net8.0\Otomasyon.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\Otomasyon\obj\Debug\net8.0\Otomasyon.RazorAssemblyInfo.cache
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\Otomasyon\obj\Debug\net8.0\Otomasyon.RazorAssemblyInfo.cs
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\Otomasyon\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\Otomasyon\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\Otomasyon\obj\Debug\net8.0\staticwebassets\msbuild.Otomasyon.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\Otomasyon\obj\Debug\net8.0\staticwebassets\msbuild.build.Otomasyon.props
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\Otomasyon\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Otomasyon.props
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\Otomasyon\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Otomasyon.props
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\Otomasyon\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\Otomasyon\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\Otomasyon\obj\Debug\net8.0\scopedcss\bundle\Otomasyon.styles.css
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\Otomasyon\obj\Debug\net8.0\scopedcss\projectbundle\Otomasyon.bundle.scp.css
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\Otomasyon\obj\Debug\net8.0\Otomasyon.csproj.Up2Date
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\Otomasyon\obj\Debug\net8.0\Otomasyon.dll
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\Otomasyon\obj\Debug\net8.0\refint\Otomasyon.dll
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\Otomasyon\obj\Debug\net8.0\Otomasyon.pdb
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\Otomasyon\obj\Debug\net8.0\Otomasyon.genruntimeconfig.cache
+C:\Users\fawaz\Desktop\StajOto\Last\Otomasyon\Otomasyon\Otomasyon\obj\Debug\net8.0\ref\Otomasyon.dll
+C:\Users\fawaz\Desktop\LastVersion\Otomasyon\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\fawaz\Desktop\LastVersion\Otomasyon\bin\Debug\net8.0\appsettings.json
+C:\Users\fawaz\Desktop\LastVersion\Otomasyon\bin\Debug\net8.0\Otomasyon.staticwebassets.runtime.json
+C:\Users\fawaz\Desktop\LastVersion\Otomasyon\bin\Debug\net8.0\Otomasyon.exe
+C:\Users\fawaz\Desktop\LastVersion\Otomasyon\bin\Debug\net8.0\Otomasyon.deps.json
+C:\Users\fawaz\Desktop\LastVersion\Otomasyon\bin\Debug\net8.0\Otomasyon.runtimeconfig.json
+C:\Users\fawaz\Desktop\LastVersion\Otomasyon\bin\Debug\net8.0\Otomasyon.dll
+C:\Users\fawaz\Desktop\LastVersion\Otomasyon\bin\Debug\net8.0\Otomasyon.pdb
+C:\Users\fawaz\Desktop\LastVersion\Otomasyon\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\fawaz\Desktop\LastVersion\Otomasyon\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\fawaz\Desktop\LastVersion\Otomasyon\bin\Debug\net8.0\Humanizer.dll
+C:\Users\fawaz\Desktop\LastVersion\Otomasyon\bin\Debug\net8.0\MediatR.dll
+C:\Users\fawaz\Desktop\LastVersion\Otomasyon\bin\Debug\net8.0\MediatR.Contracts.dll
+C:\Users\fawaz\Desktop\LastVersion\Otomasyon\bin\Debug\net8.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\fawaz\Desktop\LastVersion\Otomasyon\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\fawaz\Desktop\LastVersion\Otomasyon\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\fawaz\Desktop\LastVersion\Otomasyon\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\fawaz\Desktop\LastVersion\Otomasyon\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\fawaz\Desktop\LastVersion\Otomasyon\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\fawaz\Desktop\LastVersion\Otomasyon\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\fawaz\Desktop\LastVersion\Otomasyon\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\fawaz\Desktop\LastVersion\Otomasyon\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\fawaz\Desktop\LastVersion\Otomasyon\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\fawaz\Desktop\LastVersion\Otomasyon\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\fawaz\Desktop\LastVersion\Otomasyon\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\fawaz\Desktop\LastVersion\Otomasyon\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\fawaz\Desktop\LastVersion\Otomasyon\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\fawaz\Desktop\LastVersion\Otomasyon\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\fawaz\Desktop\LastVersion\Otomasyon\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\fawaz\Desktop\LastVersion\Otomasyon\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\fawaz\Desktop\LastVersion\Otomasyon\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\fawaz\Desktop\LastVersion\Otomasyon\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\fawaz\Desktop\LastVersion\Otomasyon\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\fawaz\Desktop\LastVersion\Otomasyon\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\fawaz\Desktop\LastVersion\Otomasyon\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\fawaz\Desktop\LastVersion\Otomasyon\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\fawaz\Desktop\LastVersion\Otomasyon\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\fawaz\Desktop\LastVersion\Otomasyon\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\fawaz\Desktop\LastVersion\Otomasyon\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\fawaz\Desktop\LastVersion\Otomasyon\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\fawaz\Desktop\LastVersion\Otomasyon\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\fawaz\Desktop\LastVersion\Otomasyon\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\fawaz\Desktop\LastVersion\Otomasyon\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\fawaz\Desktop\LastVersion\Otomasyon\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\fawaz\Desktop\LastVersion\Otomasyon\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\fawaz\Desktop\LastVersion\Otomasyon\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\fawaz\Desktop\LastVersion\Otomasyon\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\fawaz\Desktop\LastVersion\Otomasyon\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\fawaz\Desktop\LastVersion\Otomasyon\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\fawaz\Desktop\LastVersion\Otomasyon\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\fawaz\Desktop\LastVersion\Otomasyon\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\fawaz\Desktop\LastVersion\Otomasyon\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\fawaz\Desktop\LastVersion\Otomasyon\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\fawaz\Desktop\LastVersion\Otomasyon\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\fawaz\Desktop\LastVersion\Otomasyon\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\fawaz\Desktop\LastVersion\Otomasyon\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\fawaz\Desktop\LastVersion\Otomasyon\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\fawaz\Desktop\LastVersion\Otomasyon\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\fawaz\Desktop\LastVersion\Otomasyon\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\fawaz\Desktop\LastVersion\Otomasyon\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\fawaz\Desktop\LastVersion\Otomasyon\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fawaz\Desktop\LastVersion\Otomasyon\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fawaz\Desktop\LastVersion\Otomasyon\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fawaz\Desktop\LastVersion\Otomasyon\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fawaz\Desktop\LastVersion\Otomasyon\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fawaz\Desktop\LastVersion\Otomasyon\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fawaz\Desktop\LastVersion\Otomasyon\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fawaz\Desktop\LastVersion\Otomasyon\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fawaz\Desktop\LastVersion\Otomasyon\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fawaz\Desktop\LastVersion\Otomasyon\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fawaz\Desktop\LastVersion\Otomasyon\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fawaz\Desktop\LastVersion\Otomasyon\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fawaz\Desktop\LastVersion\Otomasyon\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fawaz\Desktop\LastVersion\Otomasyon\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\fawaz\Desktop\LastVersion\Otomasyon\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\fawaz\Desktop\LastVersion\Otomasyon\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\fawaz\Desktop\LastVersion\Otomasyon\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\fawaz\Desktop\LastVersion\Otomasyon\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\fawaz\Desktop\LastVersion\Otomasyon\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\fawaz\Desktop\LastVersion\Otomasyon\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\fawaz\Desktop\LastVersion\Otomasyon\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\fawaz\Desktop\LastVersion\Otomasyon\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\fawaz\Desktop\LastVersion\Otomasyon\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\fawaz\Desktop\LastVersion\Otomasyon\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\fawaz\Desktop\LastVersion\Otomasyon\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\fawaz\Desktop\LastVersion\Otomasyon\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\fawaz\Desktop\LastVersion\Otomasyon\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\fawaz\Desktop\LastVersion\Otomasyon\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\fawaz\Desktop\LastVersion\Otomasyon\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\fawaz\Desktop\LastVersion\Otomasyon\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\fawaz\Desktop\LastVersion\Otomasyon\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\fawaz\Desktop\LastVersion\Otomasyon\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\fawaz\Desktop\LastVersion\Otomasyon\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\fawaz\Desktop\LastVersion\Otomasyon\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\fawaz\Desktop\LastVersion\Otomasyon\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\fawaz\Desktop\LastVersion\Otomasyon\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\fawaz\Desktop\LastVersion\Otomasyon\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\fawaz\Desktop\LastVersion\Otomasyon\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\fawaz\Desktop\LastVersion\Otomasyon\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\fawaz\Desktop\LastVersion\Otomasyon\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\fawaz\Desktop\LastVersion\Otomasyon\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\fawaz\Desktop\LastVersion\Otomasyon\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\fawaz\Desktop\LastVersion\Otomasyon\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\fawaz\Desktop\LastVersion\Otomasyon\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\fawaz\Desktop\LastVersion\Otomasyon\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\fawaz\Desktop\LastVersion\Otomasyon\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\fawaz\Desktop\LastVersion\Otomasyon\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\fawaz\Desktop\LastVersion\Otomasyon\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\fawaz\Desktop\LastVersion\Otomasyon\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\fawaz\Desktop\LastVersion\Otomasyon\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\fawaz\Desktop\LastVersion\Otomasyon\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\fawaz\Desktop\LastVersion\Otomasyon\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\fawaz\Desktop\LastVersion\Otomasyon\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\fawaz\Desktop\LastVersion\Otomasyon\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\fawaz\Desktop\LastVersion\Otomasyon\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\fawaz\Desktop\LastVersion\Otomasyon\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\fawaz\Desktop\LastVersion\Otomasyon\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\fawaz\Desktop\LastVersion\Otomasyon\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\fawaz\Desktop\LastVersion\Otomasyon\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\fawaz\Desktop\LastVersion\Otomasyon\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\fawaz\Desktop\LastVersion\Otomasyon\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\fawaz\Desktop\LastVersion\Otomasyon\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\fawaz\Desktop\LastVersion\Otomasyon\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\fawaz\Desktop\LastVersion\Otomasyon\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\fawaz\Desktop\LastVersion\Otomasyon\bin\Debug\net8.0\Application.dll
+C:\Users\fawaz\Desktop\LastVersion\Otomasyon\bin\Debug\net8.0\Core.dll
+C:\Users\fawaz\Desktop\LastVersion\Otomasyon\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\fawaz\Desktop\LastVersion\Otomasyon\bin\Debug\net8.0\Presentation.dll
+C:\Users\fawaz\Desktop\LastVersion\Otomasyon\bin\Debug\net8.0\Services.dll
+C:\Users\fawaz\Desktop\LastVersion\Otomasyon\bin\Debug\net8.0\Application.pdb
+C:\Users\fawaz\Desktop\LastVersion\Otomasyon\bin\Debug\net8.0\Core.pdb
+C:\Users\fawaz\Desktop\LastVersion\Otomasyon\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\fawaz\Desktop\LastVersion\Otomasyon\bin\Debug\net8.0\Presentation.pdb
+C:\Users\fawaz\Desktop\LastVersion\Otomasyon\bin\Debug\net8.0\Services.pdb
+C:\Users\fawaz\Desktop\LastVersion\Otomasyon\obj\Debug\net8.0\Otomasyon.csproj.AssemblyReference.cache
+C:\Users\fawaz\Desktop\LastVersion\Otomasyon\obj\Debug\net8.0\Otomasyon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fawaz\Desktop\LastVersion\Otomasyon\obj\Debug\net8.0\Otomasyon.AssemblyInfoInputs.cache
+C:\Users\fawaz\Desktop\LastVersion\Otomasyon\obj\Debug\net8.0\Otomasyon.AssemblyInfo.cs
+C:\Users\fawaz\Desktop\LastVersion\Otomasyon\obj\Debug\net8.0\Otomasyon.csproj.CoreCompileInputs.cache
+C:\Users\fawaz\Desktop\LastVersion\Otomasyon\obj\Debug\net8.0\Otomasyon.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\fawaz\Desktop\LastVersion\Otomasyon\obj\Debug\net8.0\Otomasyon.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\fawaz\Desktop\LastVersion\Otomasyon\obj\Debug\net8.0\Otomasyon.RazorAssemblyInfo.cache
+C:\Users\fawaz\Desktop\LastVersion\Otomasyon\obj\Debug\net8.0\Otomasyon.RazorAssemblyInfo.cs
+C:\Users\fawaz\Desktop\LastVersion\Otomasyon\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\fawaz\Desktop\LastVersion\Otomasyon\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\fawaz\Desktop\LastVersion\Otomasyon\obj\Debug\net8.0\staticwebassets\msbuild.Otomasyon.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\fawaz\Desktop\LastVersion\Otomasyon\obj\Debug\net8.0\staticwebassets\msbuild.build.Otomasyon.props
+C:\Users\fawaz\Desktop\LastVersion\Otomasyon\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Otomasyon.props
+C:\Users\fawaz\Desktop\LastVersion\Otomasyon\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Otomasyon.props
+C:\Users\fawaz\Desktop\LastVersion\Otomasyon\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\fawaz\Desktop\LastVersion\Otomasyon\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\fawaz\Desktop\LastVersion\Otomasyon\obj\Debug\net8.0\scopedcss\bundle\Otomasyon.styles.css
+C:\Users\fawaz\Desktop\LastVersion\Otomasyon\obj\Debug\net8.0\scopedcss\projectbundle\Otomasyon.bundle.scp.css
+C:\Users\fawaz\Desktop\LastVersion\Otomasyon\obj\Debug\net8.0\Otomasyon.csproj.Up2Date
+C:\Users\fawaz\Desktop\LastVersion\Otomasyon\obj\Debug\net8.0\Otomasyon.dll
+C:\Users\fawaz\Desktop\LastVersion\Otomasyon\obj\Debug\net8.0\refint\Otomasyon.dll
+C:\Users\fawaz\Desktop\LastVersion\Otomasyon\obj\Debug\net8.0\Otomasyon.pdb
+C:\Users\fawaz\Desktop\LastVersion\Otomasyon\obj\Debug\net8.0\Otomasyon.genruntimeconfig.cache
+C:\Users\fawaz\Desktop\LastVersion\Otomasyon\obj\Debug\net8.0\ref\Otomasyon.dll
+C:\Users\fawaz\Desktop\OtomasyonSon\Otomasyon\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\fawaz\Desktop\OtomasyonSon\Otomasyon\bin\Debug\net8.0\appsettings.json
+C:\Users\fawaz\Desktop\OtomasyonSon\Otomasyon\bin\Debug\net8.0\Otomasyon.staticwebassets.runtime.json
+C:\Users\fawaz\Desktop\OtomasyonSon\Otomasyon\bin\Debug\net8.0\Otomasyon.exe
+C:\Users\fawaz\Desktop\OtomasyonSon\Otomasyon\bin\Debug\net8.0\Otomasyon.deps.json
+C:\Users\fawaz\Desktop\OtomasyonSon\Otomasyon\bin\Debug\net8.0\Otomasyon.runtimeconfig.json
+C:\Users\fawaz\Desktop\OtomasyonSon\Otomasyon\bin\Debug\net8.0\Otomasyon.dll
+C:\Users\fawaz\Desktop\OtomasyonSon\Otomasyon\bin\Debug\net8.0\Otomasyon.pdb
+C:\Users\fawaz\Desktop\OtomasyonSon\Otomasyon\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\fawaz\Desktop\OtomasyonSon\Otomasyon\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\fawaz\Desktop\OtomasyonSon\Otomasyon\bin\Debug\net8.0\Humanizer.dll
+C:\Users\fawaz\Desktop\OtomasyonSon\Otomasyon\bin\Debug\net8.0\MediatR.dll
+C:\Users\fawaz\Desktop\OtomasyonSon\Otomasyon\bin\Debug\net8.0\MediatR.Contracts.dll
+C:\Users\fawaz\Desktop\OtomasyonSon\Otomasyon\bin\Debug\net8.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\fawaz\Desktop\OtomasyonSon\Otomasyon\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\fawaz\Desktop\OtomasyonSon\Otomasyon\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\fawaz\Desktop\OtomasyonSon\Otomasyon\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\fawaz\Desktop\OtomasyonSon\Otomasyon\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\fawaz\Desktop\OtomasyonSon\Otomasyon\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\fawaz\Desktop\OtomasyonSon\Otomasyon\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\fawaz\Desktop\OtomasyonSon\Otomasyon\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\fawaz\Desktop\OtomasyonSon\Otomasyon\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\fawaz\Desktop\OtomasyonSon\Otomasyon\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\fawaz\Desktop\OtomasyonSon\Otomasyon\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\fawaz\Desktop\OtomasyonSon\Otomasyon\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\fawaz\Desktop\OtomasyonSon\Otomasyon\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\fawaz\Desktop\OtomasyonSon\Otomasyon\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\fawaz\Desktop\OtomasyonSon\Otomasyon\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\fawaz\Desktop\OtomasyonSon\Otomasyon\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\fawaz\Desktop\OtomasyonSon\Otomasyon\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\fawaz\Desktop\OtomasyonSon\Otomasyon\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\fawaz\Desktop\OtomasyonSon\Otomasyon\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\fawaz\Desktop\OtomasyonSon\Otomasyon\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\fawaz\Desktop\OtomasyonSon\Otomasyon\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\fawaz\Desktop\OtomasyonSon\Otomasyon\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\fawaz\Desktop\OtomasyonSon\Otomasyon\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\fawaz\Desktop\OtomasyonSon\Otomasyon\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\fawaz\Desktop\OtomasyonSon\Otomasyon\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\fawaz\Desktop\OtomasyonSon\Otomasyon\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\fawaz\Desktop\OtomasyonSon\Otomasyon\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\fawaz\Desktop\OtomasyonSon\Otomasyon\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\fawaz\Desktop\OtomasyonSon\Otomasyon\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\fawaz\Desktop\OtomasyonSon\Otomasyon\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\fawaz\Desktop\OtomasyonSon\Otomasyon\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\fawaz\Desktop\OtomasyonSon\Otomasyon\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\fawaz\Desktop\OtomasyonSon\Otomasyon\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\fawaz\Desktop\OtomasyonSon\Otomasyon\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\fawaz\Desktop\OtomasyonSon\Otomasyon\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\fawaz\Desktop\OtomasyonSon\Otomasyon\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\fawaz\Desktop\OtomasyonSon\Otomasyon\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\fawaz\Desktop\OtomasyonSon\Otomasyon\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\fawaz\Desktop\OtomasyonSon\Otomasyon\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\fawaz\Desktop\OtomasyonSon\Otomasyon\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\fawaz\Desktop\OtomasyonSon\Otomasyon\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\fawaz\Desktop\OtomasyonSon\Otomasyon\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\fawaz\Desktop\OtomasyonSon\Otomasyon\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\fawaz\Desktop\OtomasyonSon\Otomasyon\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\fawaz\Desktop\OtomasyonSon\Otomasyon\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\fawaz\Desktop\OtomasyonSon\Otomasyon\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\fawaz\Desktop\OtomasyonSon\Otomasyon\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\fawaz\Desktop\OtomasyonSon\Otomasyon\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fawaz\Desktop\OtomasyonSon\Otomasyon\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fawaz\Desktop\OtomasyonSon\Otomasyon\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fawaz\Desktop\OtomasyonSon\Otomasyon\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fawaz\Desktop\OtomasyonSon\Otomasyon\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fawaz\Desktop\OtomasyonSon\Otomasyon\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fawaz\Desktop\OtomasyonSon\Otomasyon\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fawaz\Desktop\OtomasyonSon\Otomasyon\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fawaz\Desktop\OtomasyonSon\Otomasyon\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fawaz\Desktop\OtomasyonSon\Otomasyon\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fawaz\Desktop\OtomasyonSon\Otomasyon\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fawaz\Desktop\OtomasyonSon\Otomasyon\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fawaz\Desktop\OtomasyonSon\Otomasyon\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fawaz\Desktop\OtomasyonSon\Otomasyon\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\fawaz\Desktop\OtomasyonSon\Otomasyon\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\fawaz\Desktop\OtomasyonSon\Otomasyon\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\fawaz\Desktop\OtomasyonSon\Otomasyon\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\fawaz\Desktop\OtomasyonSon\Otomasyon\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\fawaz\Desktop\OtomasyonSon\Otomasyon\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\fawaz\Desktop\OtomasyonSon\Otomasyon\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\fawaz\Desktop\OtomasyonSon\Otomasyon\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\fawaz\Desktop\OtomasyonSon\Otomasyon\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\fawaz\Desktop\OtomasyonSon\Otomasyon\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\fawaz\Desktop\OtomasyonSon\Otomasyon\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\fawaz\Desktop\OtomasyonSon\Otomasyon\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\fawaz\Desktop\OtomasyonSon\Otomasyon\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\fawaz\Desktop\OtomasyonSon\Otomasyon\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\fawaz\Desktop\OtomasyonSon\Otomasyon\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\fawaz\Desktop\OtomasyonSon\Otomasyon\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\fawaz\Desktop\OtomasyonSon\Otomasyon\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\fawaz\Desktop\OtomasyonSon\Otomasyon\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\fawaz\Desktop\OtomasyonSon\Otomasyon\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\fawaz\Desktop\OtomasyonSon\Otomasyon\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\fawaz\Desktop\OtomasyonSon\Otomasyon\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\fawaz\Desktop\OtomasyonSon\Otomasyon\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\fawaz\Desktop\OtomasyonSon\Otomasyon\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\fawaz\Desktop\OtomasyonSon\Otomasyon\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\fawaz\Desktop\OtomasyonSon\Otomasyon\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\fawaz\Desktop\OtomasyonSon\Otomasyon\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\fawaz\Desktop\OtomasyonSon\Otomasyon\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\fawaz\Desktop\OtomasyonSon\Otomasyon\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\fawaz\Desktop\OtomasyonSon\Otomasyon\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\fawaz\Desktop\OtomasyonSon\Otomasyon\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\fawaz\Desktop\OtomasyonSon\Otomasyon\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\fawaz\Desktop\OtomasyonSon\Otomasyon\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\fawaz\Desktop\OtomasyonSon\Otomasyon\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\fawaz\Desktop\OtomasyonSon\Otomasyon\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\fawaz\Desktop\OtomasyonSon\Otomasyon\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\fawaz\Desktop\OtomasyonSon\Otomasyon\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\fawaz\Desktop\OtomasyonSon\Otomasyon\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\fawaz\Desktop\OtomasyonSon\Otomasyon\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\fawaz\Desktop\OtomasyonSon\Otomasyon\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\fawaz\Desktop\OtomasyonSon\Otomasyon\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\fawaz\Desktop\OtomasyonSon\Otomasyon\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\fawaz\Desktop\OtomasyonSon\Otomasyon\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\fawaz\Desktop\OtomasyonSon\Otomasyon\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\fawaz\Desktop\OtomasyonSon\Otomasyon\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\fawaz\Desktop\OtomasyonSon\Otomasyon\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\fawaz\Desktop\OtomasyonSon\Otomasyon\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\fawaz\Desktop\OtomasyonSon\Otomasyon\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\fawaz\Desktop\OtomasyonSon\Otomasyon\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\fawaz\Desktop\OtomasyonSon\Otomasyon\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\fawaz\Desktop\OtomasyonSon\Otomasyon\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\fawaz\Desktop\OtomasyonSon\Otomasyon\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\fawaz\Desktop\OtomasyonSon\Otomasyon\bin\Debug\net8.0\Application.dll
+C:\Users\fawaz\Desktop\OtomasyonSon\Otomasyon\bin\Debug\net8.0\Core.dll
+C:\Users\fawaz\Desktop\OtomasyonSon\Otomasyon\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\fawaz\Desktop\OtomasyonSon\Otomasyon\bin\Debug\net8.0\Presentation.dll
+C:\Users\fawaz\Desktop\OtomasyonSon\Otomasyon\bin\Debug\net8.0\Services.dll
+C:\Users\fawaz\Desktop\OtomasyonSon\Otomasyon\bin\Debug\net8.0\Application.pdb
+C:\Users\fawaz\Desktop\OtomasyonSon\Otomasyon\bin\Debug\net8.0\Core.pdb
+C:\Users\fawaz\Desktop\OtomasyonSon\Otomasyon\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\fawaz\Desktop\OtomasyonSon\Otomasyon\bin\Debug\net8.0\Presentation.pdb
+C:\Users\fawaz\Desktop\OtomasyonSon\Otomasyon\bin\Debug\net8.0\Services.pdb
+C:\Users\fawaz\Desktop\OtomasyonSon\Otomasyon\obj\Debug\net8.0\Otomasyon.csproj.AssemblyReference.cache
+C:\Users\fawaz\Desktop\OtomasyonSon\Otomasyon\obj\Debug\net8.0\Otomasyon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fawaz\Desktop\OtomasyonSon\Otomasyon\obj\Debug\net8.0\Otomasyon.AssemblyInfoInputs.cache
+C:\Users\fawaz\Desktop\OtomasyonSon\Otomasyon\obj\Debug\net8.0\Otomasyon.AssemblyInfo.cs
+C:\Users\fawaz\Desktop\OtomasyonSon\Otomasyon\obj\Debug\net8.0\Otomasyon.csproj.CoreCompileInputs.cache
+C:\Users\fawaz\Desktop\OtomasyonSon\Otomasyon\obj\Debug\net8.0\Otomasyon.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\fawaz\Desktop\OtomasyonSon\Otomasyon\obj\Debug\net8.0\Otomasyon.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\fawaz\Desktop\OtomasyonSon\Otomasyon\obj\Debug\net8.0\Otomasyon.RazorAssemblyInfo.cache
+C:\Users\fawaz\Desktop\OtomasyonSon\Otomasyon\obj\Debug\net8.0\Otomasyon.RazorAssemblyInfo.cs
+C:\Users\fawaz\Desktop\OtomasyonSon\Otomasyon\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\fawaz\Desktop\OtomasyonSon\Otomasyon\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\fawaz\Desktop\OtomasyonSon\Otomasyon\obj\Debug\net8.0\staticwebassets\msbuild.Otomasyon.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\fawaz\Desktop\OtomasyonSon\Otomasyon\obj\Debug\net8.0\staticwebassets\msbuild.build.Otomasyon.props
+C:\Users\fawaz\Desktop\OtomasyonSon\Otomasyon\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Otomasyon.props
+C:\Users\fawaz\Desktop\OtomasyonSon\Otomasyon\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Otomasyon.props
+C:\Users\fawaz\Desktop\OtomasyonSon\Otomasyon\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\fawaz\Desktop\OtomasyonSon\Otomasyon\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\fawaz\Desktop\OtomasyonSon\Otomasyon\obj\Debug\net8.0\scopedcss\bundle\Otomasyon.styles.css
+C:\Users\fawaz\Desktop\OtomasyonSon\Otomasyon\obj\Debug\net8.0\scopedcss\projectbundle\Otomasyon.bundle.scp.css
+C:\Users\fawaz\Desktop\OtomasyonSon\Otomasyon\obj\Debug\net8.0\Otomasyon.csproj.Up2Date
+C:\Users\fawaz\Desktop\OtomasyonSon\Otomasyon\obj\Debug\net8.0\Otomasyon.dll
+C:\Users\fawaz\Desktop\OtomasyonSon\Otomasyon\obj\Debug\net8.0\refint\Otomasyon.dll
+C:\Users\fawaz\Desktop\OtomasyonSon\Otomasyon\obj\Debug\net8.0\Otomasyon.pdb
+C:\Users\fawaz\Desktop\OtomasyonSon\Otomasyon\obj\Debug\net8.0\Otomasyon.genruntimeconfig.cache
+C:\Users\fawaz\Desktop\OtomasyonSon\Otomasyon\obj\Debug\net8.0\ref\Otomasyon.dll

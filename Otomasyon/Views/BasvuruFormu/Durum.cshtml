@@ -1,0 +1,40 @@
+﻿@model Otomasyon.Core.Entities.BasvuruFormu
+
+@{
+    ViewData["Title"] = "Değerlendirme Durumu";
+}
+
+<div class="container">
+    <div class="row">
+        <div class="col-lg-6 offset-lg-3">
+            <!-- Card component -->
+            <div class="card">
+                <div class="card-header">
+                    <h3 class="card-title">Değerlendirme Durumu</h3>
+                </div>
+                <div class="card-body">
+                    <!-- Display evaluation status -->
+                    <p><strong>Durum:</strong> @Model.Degerlendirme</p>
+                </div>
+                <div>
+                    @if (Model.Degerlendirme == "Başvuru yapan tarafından onay bekleniyor")
+                    {
+                        <form id="evaluationForm" asp-action="UpdateDegerlendirme" method="post">
+                            <input type="hidden" asp-for="Id" />
+                            <input type="hidden" id="DegerlendirmeValue" name="Degerlendirme" />
+                            <button type="button" class="btn btn-primary" onclick="updateDegerlendirme('Onaylandı')">Onayla</button>
+                            <button type="button" class="btn btn-danger" onclick="updateDegerlendirme('Red Edildi')">Red Et</button>
+                        </form>
+                    }
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+    function updateDegerlendirme(value) {
+        document.getElementById('DegerlendirmeValue').value = value;
+        document.getElementById('evaluationForm').submit();
+    }
+</script>
